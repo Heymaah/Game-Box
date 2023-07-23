@@ -1,0 +1,51 @@
+.title{
+    position: relative;
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 610px;
+    color: #ffc400;
+    font-size: 40px;
+    font-weight: bold;
+    
+  
+}
+.total{
+   margin-left: 500px;
+   margin-right: 500px;
+   background-color:#ffefb5;
+   padding-bottom: 30px;
+   
+}
+.rps{
+    display: flex;
+    padding-top: 30px;
+    margin-top: 50px;
+    margin-left: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 155px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tic{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 110px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.portfolio__button{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 20px;
+    background-color: #f4c531;
+    color:#fff;
+    padding: 1rem;
+    border-radius:.5rem;
+    font-weight: var(--font-medium);
+}
+.play{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+}
